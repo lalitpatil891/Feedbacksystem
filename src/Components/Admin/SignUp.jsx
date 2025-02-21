@@ -12,12 +12,12 @@ const Signup = () => {
                     {/* <p>@UserName</p> */}
                     <Link to="/">
                         {/* <button>Login</button> */}
-                        <img src="./public/Images/arrow-left.png" alt="Paris"></img>
+                        <img src="/Images/arrow-left.png" alt="Paris"></img>
                      </Link>
                     </ul>
             </nav>
             <footer>
-                Zidio internship Project - LP
+                @Lalit
             </footer>
             {/*--- Login ---*/}
             <div className="login-container">

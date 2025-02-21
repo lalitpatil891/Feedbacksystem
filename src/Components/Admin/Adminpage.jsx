@@ -19,16 +19,16 @@ const Admin = () => {
         </ul>
       </nav>
       <footer>
-        Zidio internship Project - LP
+      @Lalit
       </footer>
       {/*--- HOME Content ---*/}
       <div class="container">
         <h2>Feedback's <small></small></h2>
         <ul class="responsive-table">
           <li class="table-header">
-            <div class="col col-1">Id</div>
-            <div class="col col-2">Name</div>
-            <div class="col col-3">Birth Date</div>
+            <div className="col col-1">Id</div>
+            <div className="col col-2">Name</div>
+            <div className="col col-3">Birth Date</div>
             <div class="col col-4">Mobile No.</div>
             <div class="col col-5">Email ID</div>
             <div class="col col-6">Model/Series</div>

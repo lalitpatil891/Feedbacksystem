@@ -28,12 +28,12 @@ const Login = () => {
                 </div>
                 <ul>
                     <Link to="/">
-                        <img src="./public/Images/arrow-left.png" alt="Back"></img>
+                        <img src="/Images/arrow-left.png" alt="Back"></img>
                     </Link>
                 </ul>
             </nav>
             <footer>
-                Zidio internship Project - LP
+            @Lalit
             </footer>
             <div className="login-container">
                 <h2>Login</h2>

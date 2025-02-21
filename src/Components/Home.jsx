@@ -20,12 +20,12 @@ function Home() {
         </ul>
       </nav>
       <footer>
-        Zidio internship Project - Lalit Patil
+        @Lalit
       </footer>
 {/*--- HOME Content ---*/}
       <div className='home-content'>
         <div className='right'>
-          <div> <img src="./public/images/icon.png" alt="Paris" className="center"></img></div>
+          <div> <img src="/Images/icon.png" alt="Paris" className="center"></img></div>
         </div>
         <div className='left'>
           <div className='title-bolt'>Time for Feedback</div>
@@ -33,7 +33,7 @@ function Home() {
           <div className='feed-btn'>
             <Link to="/Feedback"><button>Click here to add your Feedback</button></Link>
           </div>
-          {/* <div className='title-disc'>If you submmit feedback then view will view here.</div>
+          {/* <div className='title-disc'>If you submmit feedback then view here.</div>
         <div className='feed-btn'>
           <label>
             Enter your Email<br />

@@ -18,7 +18,7 @@ function Navbar() {
                 </ul>
             </nav>
             <footer>
-                Zidio internship Project - Lalit Patil
+              @Lalit
             </footer>
         </>
     )

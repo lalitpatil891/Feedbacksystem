@@ -7,7 +7,7 @@ const Admin = () => {
     const [login, setLogin]=useState(true)
     return (
         <>
-        <h1>Restaurant Login/Signup Restaurant</h1>
+        <h1>Login/Signup</h1>
         <div className="login-container-main">
             
             {

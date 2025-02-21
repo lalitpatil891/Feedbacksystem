@@ -15,12 +15,12 @@ function FeedForm() {
                     {/* <p>@UserName</p> */}
                     <Link to="/">
                         {/* <button>Login</button> */}
-                        <img src="./public/Images/arrow-left.png" alt="Paris"></img>
+                        <img src="/Images/arrow-left.png" alt="Paris"></img>
                      </Link>
                     </ul>
             </nav>
             <footer>
-                Zidio internship Project - Lalit Patil
+           @Lalit
             </footer>
 
 {/*--- feedback form ---*/}
@@ -28,7 +28,7 @@ function FeedForm() {
             <div className='left-form'>
                 <div className='title-form-box'>
                     <div className='form-img'>
-                        <div> <img src="./public/images/icon.png" alt="Paris" className="center"></img></div>
+                        <div> <img src="/Images/icon.png" alt="Paris" className="center"></img></div>
                     </div>
                     <div className='form-title-box'>
                         <div className='form-title'>Time for Feedback</div>
