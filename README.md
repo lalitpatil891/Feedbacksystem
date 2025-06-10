@@ -47,7 +47,7 @@ git clone https://github.com/lalitpatil891/Feedbacksystem.git
 2. **Navigate to the project directory**:
 
 ```bash
-cd your-repo-name
+cd Feedbacksystem
 ```
 
 3. **Install dependencies**:
