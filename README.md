@@ -1,7 +1,3 @@
-Here’s an improved and cleanly laid-out **README.md** for your **React + Vite Feedback System project** with better formatting and clarity:
-
----
-
 # 🚀 Feedback System
 
 A simple, responsive **Feedback System** built with **React.js + Vite**, allowing users to submit device details, upload images, and provide feedback. Focused on clean UI/UX design for a smooth user experience.
@@ -96,11 +92,3 @@ This project is built for practice and learning purposes using **React.js + Vite
 ## 💡 Suggestions
 
 If you have ideas to improve this app, feel free to fork and submit a pull request!
-
----
-
-Let me know if you want:
-
-* A GitHub badge section
-* Deployment guide for Netlify
-* Screenshots section for better presentation.
